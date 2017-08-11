@@ -1,1 +1,1 @@
-"# kommunal-de staging autodeployed again" 
+"# kommunal-de staging autodeployed again and it works" 
